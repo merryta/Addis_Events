@@ -1,0 +1,1 @@
+[Addis_events]()is a website application aimed to collect and post the event that takes place in Ethiopia. Help a person who wants to host an event but didn't have an idea where to start and how to budget.
